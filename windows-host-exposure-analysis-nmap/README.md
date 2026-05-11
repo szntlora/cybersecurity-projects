@@ -33,4 +33,4 @@ The full project documentation and analysis is available in PDF format below.
 - Security Risk Assessment
 
 ## Documentation
-[View Full Analysis](https://github.com/user-attachments/files/27602502/nmap_windows_host_analysis_SZL.pdf)
+[Nmap Network Scan Analysis - Windows Host](https://github.com/user-attachments/files/27602502/nmap_windows_host_analysis_SZL.pdf)
