@@ -37,4 +37,4 @@ The full project documentation and analysis is available in PDF format below.
 
 ## Documentation
 
-[View Full Analysis](https://github.com/user-attachments/files/27602729/ssh_log_analysis_splunk_SZL.pdf)
+[SSH Log Analysis and Brute Force Detection using Splunk](https://github.com/user-attachments/files/27602729/ssh_log_analysis_splunk_SZL.pdf)
